@@ -19,7 +19,6 @@
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 ## 🧑‍💻 About Me
 
-```typescript
 const nirmal = {
   role:        "CS Undergrad @ KL University, Hyderabad (Class of 2027)",
   cgpa:        9.96,                      // Ranked #1 in CSE department
@@ -160,4 +159,4 @@ Milestone	Details
 I'm always up for discussing distributed systems, RAG architectures, or your next big idea.
 📩 Reach me at mnirmal2709@gmail.com — I reply fast.
 
-<br/><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/></div> ```
+<br/><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/></div>
