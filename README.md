@@ -1,24 +1,163 @@
-# 💫 About Me:
-CSE @ KL University | AWS Certified | Building scalable AI & cloud apps | Full-stack dev | 9.96 CGPA | Turning real-world problems into data-driven products
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nirmal%20Prasad%20Madhunala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nirmal-madhunala-545a18246) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mnirmal2709@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=CSE+%40+KL+University+%7C+9.96+CGPA+%7C+Rank+%231;AWS+Certified+%E2%98%81%EF%B8%8F+%7C+MongoDB+Certified+%F0%9F%8D%83;Building+RAG+%26+LLM-powered+systems+%F0%9F%A4%96;Design+Patent+Holder+%F0%9F%93%9C;Turning+real-world+problems+into+data-driven+products)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nirmal-36&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nirmal-36&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal-36&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nirmal-madhunala-545a18246)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mnirmal2709@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_RESUME_URL)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nirmal-36&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<img src="https://komarev.com/ghpvc/?username=Nirmal-36&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
 
----
-[![](https://visitcount.itsvg.in/api?id=Nirmal-36&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+## 🧑‍💻 About Me
+
+```typescript
+const nirmal = {
+  role:        "CS Undergrad @ KL University, Hyderabad (Class of 2027)",
+  cgpa:        9.96,                      // Ranked #1 in CSE department
+  focus:       ["Backend Systems", "LLM & RAG Pipelines", "Cloud Architecture"],
+  certified:   ["AWS Cloud Practitioner", "MongoDB DBA", "MongoDB Associate Developer"],
+  patent:      "Smart Shopping Cart – Automatic Billing System (2024)",
+  currently:   "Designing scalable microservices & semantic-search products",
+  motto:       "Ship fast. Measure everything. Optimize relentlessly."
+};
+
+🔭 I design real-time, distributed applications with microservices, REST APIs, and vector search
+🧠 Deep interest in Retrieval-Augmented Generation, embeddings, and production LLM systems
+⚡ Obsessed with performance — sub-100ms search latency and 45% query speedups are my kind of fun
+🤝 Open to internships, collaborations, and open-source in AI, backend, and cloud
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+🚀 Featured Projects
+<table> <tr> <td width="50%" valign="top">
+🏥 KLH MedCare
+Healthcare Management Platform
+
+React Django DRF MySQL
+
+Modular system supporting 7+ user roles & 10+ clinical workflows
+Built & tested 25+ REST APIs with Django REST Framework
+Auth, rate limiting & RBAC for hardened security
+45% faster DB performance via MySQL query optimization
+Repo
+
+</td> <td width="50%" valign="top">
+☁️ Multi-Cloud File Intelligence
+AI-Powered Document Platform
+
+FastAPI React TypeScript PostgreSQL Qdrant
+
+Unified Google Drive + S3 storage with per-user data isolation
+OCR, table extraction & token-aware chunking pipelines
+Semantic search via Jina AI embeddings + Qdrant
+RAG chat, summarization & multi-doc analysis using NVIDIA LLMs
+Repo
+
+</td> </tr> <tr> <td colspan="2" valign="top">
+📬 OneBox — Real-Time Email Aggregator with AI
+Node.js TypeScript React Elasticsearch Qdrant Docker
+
+Distributed aggregation engine processing 100+ emails/day with real-time IMAP sync
+LLM + RAG pipeline for smarter email classification
+Semantic search over 5k+ emails at sub-100ms latency
+Docker-based microservices architecture for horizontal scalability
+Repo
+
+</td> </tr> </table><!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+🛠️ Tech Arsenal
+<details open> <summary><b>💬 Languages</b></summary> <br/>
+Java
+Python
+TypeScript
+JavaScript
+C
+SQL
+
+</details><details open> <summary><b>🧠 AI & Data</b></summary> <br/>
+LLMs
+RAG
+Qdrant
+Elasticsearch
+PyTorch
+TensorFlow
+scikit-learn
+Pandas
+NumPy
+OpenCV
+
+</details><details open> <summary><b>⚙️ Backend & APIs</b></summary> <br/>
+FastAPI
+Django
+DRF
+Node.js
+Express
+Flask
+JWT
+Swagger
+
+</details><details open> <summary><b>🎨 Frontend</b></summary> <br/>
+React
+Next.js
+React Native
+Redux
+React Query
+Vite
+HTML5
+CSS3
+Chart.js
+
+</details><details open> <summary><b>☁️ Cloud, DevOps & Databases</b></summary> <br/>
+AWS
+Docker
+Nginx
+Gunicorn
+Vercel
+Render
+PostgreSQL
+MongoDB
+MySQL
+SQLite
+Git
+Postman
+Power BI
+Twilio
+
+</details><!-- ═══════════════════════════ CREDENTIALS ═══════════════════════════ -->
+🏅 Certifications & Achievements
+<table> <tr> <td width="50%" valign="top">
+📜 Certifications
+Credential	Issuer	Year
+🍃 MongoDB Certified Database Administrator	MongoDB University	2026
+☁️ AWS Certified Cloud Practitioner	Amazon Web Services	2025
+🍃 MongoDB Associate Developer	MongoDB University	2024
+</td> <td width="50%" valign="top">
+🏆 Achievements
+Milestone	Details
+🥇 Academic Excellence Award	Ranked #1 in CSE Dept, KL University (2025)
+📐 Design Patent	Smart Shopping Cart: Automatic Billing System (2024)
+🎓 9.96 / 10 CGPA	B.Tech CSE, KL University (2027)
+📚 96.9%	Intermediate MPC, Sri Chaitanya (2022)
+</td> </tr> </table><!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+📊 GitHub Analytics
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nirmal-36&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8" height="170"/> <img src="https://nirzak-streak-stats.vercel.app/?user=Nirmal-36&theme=react&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="170"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal-36&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=38bdf8" height="170"/> <img src="https://github-contributor-stats.vercel.app/api?username=Nirmal-36&limit=5&theme=react&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=38bdf8" height="170"/>
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nirmal-36&theme=react-dark&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true" width="95%"/>
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nirmal-36&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"/></div><!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+💬 Let's Build Something
+<div align="center">
+"Turning real-world problems into data-driven products."
+
+I'm always up for discussing distributed systems, RAG architectures, or your next big idea.
+📩 Reach me at mnirmal2709@gmail.com — I reply fast.
+
+<br/><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/></div> ```
